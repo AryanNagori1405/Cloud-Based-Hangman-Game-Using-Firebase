@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HangmanFirebase</string>
+    <string name="login"><u>Login</u></string>
+    <string name="dashboard"><u>DASHBOARD</u></string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="profile"><u>Profile</u></string>
+    <string name="leaderboard"><u>Leaderboard</u></string>
+</resources>
