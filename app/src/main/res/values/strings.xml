@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HangmanFirebase</string>
+    <string name="app_name">Hangman Game</string>
     <string name="login"><u>Login</u></string>
     <string name="dashboard"><u>DASHBOARD</u></string>
     <string name="sign_up"><u>Sign Up</u></string>
