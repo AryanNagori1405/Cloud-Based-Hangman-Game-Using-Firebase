@@ -20,6 +20,22 @@ An Android word-guessing game built using **Java and Firebase** where players co
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/login.png" width="250">
+  <img src="screenshots/signup.png" width="250">
+  <img src="screenshots/dashboard.png" width="250">
+</p>
+
+<p align="center">
+  <img src="screenshots/game.png" width="250">
+  <img src="screenshots/profile.png" width="250">
+  <img src="screenshots/leaderboard.png" width="250">
+</p>
+
+---
+
 ## 🧠 Game Flow
 Launch App<br>
 ↓<br>
@@ -29,7 +45,7 @@ Dashboard<br>
 ├── Play Hangman<br>
 ├── Profile<br>
 └── Leaderboard<br>
-  
+
 ---
 
 ## 🏗️ Tech Stack
@@ -53,7 +69,7 @@ Dashboard<br>
 ## ⚙️ Setup (Developers)
 
 1. Clone repository
-- git clone https://github.com/AryanNagori1405/Cloud-Bases-Hangman-Game-Using-Firebase.git
+- git clone https://github.com/AryanNagori1405/Cloud-Based-Hangman-Game-Using-Firebase.git
 
 2. Add Firebase
 - Create Firebase project
