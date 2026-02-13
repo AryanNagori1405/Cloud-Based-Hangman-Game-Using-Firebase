@@ -13,3 +13,24 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Protect signing keys
+*.jks
+*.keystore
+
+# Firebase config (contains API keys)
+google-services.json
+
+# Generated APK/AAB
+*.apk
+*.aab
+
+# Gradle build output
+**/build/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+
